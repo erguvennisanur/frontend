@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>body {background-color: rgb(115, 82, 128);}</style>
+</head>
+<body>
+    <!-- Baslik Kismi -->
+    
+    <header>
+        <h1>
+           <i>...Kolay Tiramisu Tarifi...</i> 
+        </h1>
+    </header>
+
+    
+
+    <article>
+       <b><i> Bir İtalyan Tatlısı olan tiramisu gerçeğinde mascarpone denilen bir peynirle yapılmaktadır. Günümüzde ise labne peynirle de yapılan tiramisu herkes tarafından çok sevilmektedir. Kahve ile ıslatılan keki, üzerine serpilen kakaosu ve içerisinde labne peyniri karışımı kreması ile damaklarınızda vazgeçilmez bir lezzet olacak. Diğer tatlılara göre daha hafif ve serinletici olan tiramisu henüz tatmayan herkesin daha önce tatmadığına pişmanlık yaşayacağı enfes bir tatlı. Misafirlerinize, arkadaşlarınıza, çocuklarınıza, davet sofralarınıza yapabileceğiniz, herkesin tarifini sizden alacağı kolay tiramisu tarifini denemeyi unutmayın. Deneyeceklere şimdiden afiyet olsun.</i></b> 
+        <p> <b>Tarif:</b>Elif Atalar</p>
+    </article>
+
+    
+
+    <article>
+        <span> <u> <b>Kaç Kişilik : </b> 4 Kişilik </u> </span>
+        <br><br>
+        <span> <u><b>Hazırlama Süresi : </b> 30 Dakika </u>  </span>
+        <br><br>
+        <span> <u><b>Pişirme Süresi : </b> 10 Dakika </u> </span>
+    </article>
+
+    
+
+    <article>
+       <span> <h3> Tiramisu için Gerekli Malzemeler</h3>
+        <ul>
+            <li>1 adet hazır pandispanya keki</li>
+            <li>2.5 su bardağı süt</li>
+            <li>3 yemek kaşığı toz şeker (tepeleme dolu)</li>
+            <li>3 yemek kaşığı un (tepeleme dolu)</li>
+            <li>1 adet yumurta</li>
+            <li>200 gram labne peyniri (1 paket)</li>
+            <li>3’ü bir arada hazır kahve</li>
+            <li>kakao</li>
+        </ul>
+    </article>
+
+    
+
+    <article>
+        <h3>Güzel Bir Tiramisu Nasıl Yapılır?</h3>
+        <ol>
+            <li>Öncelikle muhallebi için şeker, un, süt ve yumurta çırpılarak ocakta kaynayıncaya kadar karıştırılarak pişirilir.Kaynadıktan sonra altı kapatılarak ılımaya bırakılır.</li>
+            <li>15 dk kadar bekleyip ılındıktan sonra labne peyniri ilave edilip mikser ile pürüzsüz hale gelene kadar çırpılır.          </li>
+            <li>Diğer taraftan sıcak su içinde hazır kahve çözdürülerek hazırlanır ve hafif soğuması beklenir.</li>
+            <li>Servis tabağına pandispanya kekinin bir katı yerleştirilerek kahvenin yarısı ile ıslatılır.</li>
+            <li>Üzerine kremanın yarısı ilave edilip kalan kahve ile üst kat da ıslatıldıktan sonra ikinci kat kapatılır.</li>
+            <li>Kalan krema pastanın üzerine dökülerek pastanın üzeri ve kenarları güzelce kapatılır.</li>
+            <li>Son olarak pastanın üzerine süzgeç yardımı ile kakao serpilir.</li>
+            <li>Buzdolabında birkaç saat dinlendirildikten sonra dilimlenerek servis edilir.</li>
+            
+        </ol>
+    </article>
+
+    
+
+    <footer>
+       <b>Afiyet olsun.</b> 
+    </footer>
+
+</body>
+</html>
